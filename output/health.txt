@@ -1,0 +1,5 @@
+Health Check @ Sat Aug 18 21:30:45 2018
+Number of URLs checked: 6
+URLS that are currently being checked: [u'http://cnn.com', u'http://google.ca', u'http://cnn.com', u'http://httpbin.org/delay/20', u'https://www.whitehouse.gov/', u'https://abc.com/', u'https://wrongurl.xyz', u'https://pagefreezer.com', u'http://www.ycombinator.com/']
+Top 5 HTTP codes returned across all urls: ['200']
+URLs that took the longest to check in the past 5 minutes: ['http://cnn.com', 'http://cnn.com', 'http://google.ca', 'https://www.whitehouse.gov/', 'https://pagefreezer.com', 'http://www.ycombinator.com/', 'http://httpbin.org/delay/20']

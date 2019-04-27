@@ -1,0 +1,14 @@
+19/08/18  04:29:45  http://www.ycombinator.com/ - 14305 - Bytes 200  182.14 ms 
+19/08/18  04:29:47  https://pagefreezer.com - 52529 - Bytes 200  2520.56 ms 
+19/08/18  04:29:50  https://www.whitehouse.gov/ - 48608 - Bytes 200  5203.78 ms 
+19/08/18  04:29:50  http://google.ca - 11278 - Bytes 200  5238.57 ms 
+19/08/18  04:29:50  http://cnn.com - 1577751 - Bytes 200  5534.73 ms 
+19/08/18  04:29:51  http://cnn.com - 1577751 - Bytes 200  5678.22 ms 
+19/08/18  04:30:00  http://httpbin.org/delay/20 - 315 - Bytes 200  15339.80 ms 
+19/08/18  04:30:45  https://www.whitehouse.gov/ - 48608 - Bytes 200  333.85 ms 
+19/08/18  04:30:45  http://www.ycombinator.com/ - 14305 - Bytes 200  320.60 ms 
+19/08/18  04:30:45  http://google.ca - 11235 - Bytes 200  380.15 ms 
+19/08/18  04:30:46  http://cnn.com - 1577751 - Bytes 200  650.12 ms 
+19/08/18  04:30:46  http://cnn.com - 1577751 - Bytes 200  743.48 ms 
+19/08/18  04:30:48  https://pagefreezer.com - 52529 - Bytes 200  2647.29 ms 
+19/08/18  04:30:55  http://httpbin.org/delay/20 - 315 - Bytes 200  10465.55 ms 
