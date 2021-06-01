@@ -6,4 +6,4 @@ greenlet==0.4.14
 idna==2.7
 requests==2.19.1
 unity-lens-photos==1.0
-urllib3==1.23
+urllib3==1.26.5
